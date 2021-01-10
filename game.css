@@ -34,3 +34,15 @@ padding: 10px;
 float: none;
 text-align: left;
 }
+#Name1 {
+	display:inline-block;
+}
+#Name2 {
+	display:inline-block;
+}
+#Score1 {
+	font-size: 20px;
+}
+#Score2 {
+	font-size: 20px;
+}
